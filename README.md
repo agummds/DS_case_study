@@ -52,26 +52,40 @@ Data menunjukkan bahwa karyawan yang keluar tersebar di berbagai rentang Employe
 Faktor-faktor yang memengaruhi tingginya attrition mencakup distribusi demografis (usia dan pendidikan), posisi pekerjaan, tingkat penghasilan, keseimbangan kerja dan kehidupan, serta kenyamanan lingkungan kerja. Temuan ini menunjukkan bahwa strategi retensi perlu difokuskan tidak hanya pada satu kelompok, tetapi harus mempertimbangkan berbagai lapisan karyawan di seluruh organisasi.
 
 # Rekomendasi Action Items
-1. **Perbaiki Program Retensi untuk Karyawan Muda dan Lajang**
-Fokuskan program mentoring, jalur karir yang jelas, dan peluang belajar untuk karyawan muda yang cenderung keluar lebih cepat.
+Berdasarkan hasil analisis visual data attrition pada dashboard, berikut adalah rekomendasi strategis yang dapat diambil perusahaan untuk mencapai target penurunan tingkat keluar masuknya karyawan (**attrition rate**).
 
-2. **Tinjau Ulang Struktur Gaji Pokok**
-Meski ada penghasilan tambahan, gaji pokok yang rendah menjadi salah satu pemicu attrition. Lakukan benchmarking dan sesuaikan gaji pokok agar lebih kompetitif.
 
-3. **Perbaiki Keseimbangan Kerja dan Kehidupan (Work-Life Balance)**
-Identifikasi divisi dengan beban kerja berlebihan (misalnya yang sering lembur) dan terapkan kebijakan kerja fleksibel atau pengurangan jam lembur.
+## ✅ Rekomendasi Utama
 
-4. **Bangun Hubungan Atasan-Bawahan yang Lebih Sehat**
-Selenggarakan pelatihan kepemimpinan untuk atasan agar menciptakan lingkungan kerja yang lebih mendukung, terutama karena ketidaknyamanan dengan atasan muncul sebagai faktor signifikan.
+### 1. Fokus pada Departemen dengan Attrition Tinggi
+- Identifikasi akar masalah di departemen seperti **Customer Service** dan **Marketing**
+- Implementasikan program retensi khusus per divisi
+- Tetapkan target penurunan attrition per departemen
 
-5. **Dorong Promosi dan Pengembangan Karir**
-Karyawan yang jarang dipromosikan merasa kurang dihargai. Pastikan ada sistem penilaian performa yang adil dan jalur promosi yang transparan.
+### 2. Perkuat Retensi Karyawan Baru (< 1 Tahun)
+- Tingkatkan efektivitas program onboarding
+- Terapkan sistem mentoring atau buddy system
+- Evaluasi ulang proses rekrutmen awal
 
-6. **Fokus pada Divisi Berisiko Tinggi**
-Divisi seperti laboratorium teknisi, human resources, dan research scientist punya tingkat keluar tinggi. Selidiki lebih dalam penyebab spesifik di setiap divisi dan buat solusi yang disesuaikan.
+### 3. Tinjau Lokasi dengan Tingkat Turnover Tinggi
+- Audit fasilitas dan kepuasan kerja per lokasi
+- Lakukan rotasi/relokasi untuk mengurangi beban lokasi tertentu
+- Perbaiki komunikasi antar lokasi dan kantor pusat
 
-7. **Perhatikan Latar Pendidikan Teknik dan Marketing**
-Karena banyak attrition terjadi di kelompok ini, mungkin perlu peninjauan ulang terkait job fit, pelatihan tambahan, atau penyesuaian peran.
+### 4. Optimalkan Peran Supervisor dan Middle Manager
+- Berikan pelatihan leadership dan coaching
+- Terapkan 360-degree feedback untuk supervisor
+- Monitor hubungan manajemen langsung dengan tingkat resign
+
+### 5. Intervensi Intensif untuk Job Level 1
+- Tinjau kembali proses onboarding, pelatihan awal, dan ekspektasi kerja di level ini.
+- Evaluasi apakah beban kerja, gaji, dan prospek karier sesuai.
+- Terapkan program *early engagement* selama 3–6 bulan pertama kerja.
+
+### 6. Retensi Gender-Sensitif
+- Buat inisiatif dukungan kerja yang ramah gender seperti fleksibilitas kerja, cuti, dan layanan kesehatan tambahan.
+- Lakukan *exit interview* untuk menggali alasan resign yang mungkin berbeda antara pria dan wanita.
+
 
 # Email dan password Metabase
 *Email*: root@mail.com 
